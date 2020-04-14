@@ -1,1 +1,1 @@
-# JS-project
+# JS-Stopwatch
